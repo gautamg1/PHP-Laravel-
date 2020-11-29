@@ -1,1 +1,1 @@
-This Project is built with php Using MVC Pattern.
+This Project is built with php using MVC Pattern.

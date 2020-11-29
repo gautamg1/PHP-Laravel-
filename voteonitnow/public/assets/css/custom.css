@@ -1,0 +1,21 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {	
+}
+
+a {
+}
+.error
+{
+    color: red;
+    padding-top: 5px;
+}
+.background-black
+{
+    background: #2c2e2f;
+    color: #fff;
+}
